@@ -1,4 +1,6 @@
-  import java.util.Scanner;
+//Ixel Gabriela Ramirez Perez
+//2024-1648U
+import java.util.Scanner;
 
 public class NUMTRABAJO {
     public static void main(String[] args) throws Exception {
