@@ -1,5 +1,6 @@
 //Ixel Gabriela Ramirez Perez
 //2024-1648U
+
 import java.util.Scanner;
 
 public class NUMTRABAJO {
